@@ -1,0 +1,20 @@
+{
+  "name": "renderblocks",
+  "version": "1.0.1",
+  "description": "Library by Alex Merced of AlexMercedCoder.com (AlexMercedCoder.com/jslib)",
+  "main": "renderBlocksnpm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexMercedCoder/RenderBlocks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexMercedCoder/RenderBlocks/issues"
+  },
+  "homepage": "https://github.com/AlexMercedCoder/RenderBlocks#readme"
+}

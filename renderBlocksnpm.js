@@ -48,3 +48,8 @@ class RenderBlock {
     this.build(this);
   }
 }
+
+module.exports = {
+  RenderBlock,
+  captureProps,
+};

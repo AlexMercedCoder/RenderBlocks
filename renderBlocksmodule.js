@@ -4,7 +4,7 @@
 //CaptureProps
 /////////////
 
-const captureProps = (element) => {
+export const captureProps = (element) => {
   const att = [...element.attributes];
   const entries = att.map((value) => {
     return [value.name, value.value];
@@ -17,7 +17,7 @@ const captureProps = (element) => {
 //RenderBlock
 /////////////
 
-class RenderBlock {
+export class RenderBlock {
   constructor(options) {
     this.target = document.querySelector(options.target);
     this.info = options.info;
