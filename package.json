@@ -1,6 +1,6 @@
 {
   "name": "renderblocks",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Library by Alex Merced of AlexMercedCoder.com (AlexMercedCoder.com/jslib)",
   "main": "renderBlocksnpm.js",
   "scripts": {

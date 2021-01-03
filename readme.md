@@ -11,8 +11,12 @@ This FrontEnd Library was created to be small and give some very basic reactive 
 ### CDN
 
 ```
-<script src="http://www.alexmercedcoder.com/renderBlocks.js" charset="utf-8" defer></script>
+<script src="https://res.cloudinary.com/dithdroai/raw/upload/v1609694789/libraries/renderBlocks_giqx5d.js" charset="utf-8" defer></script>
 ```
+
+### Webpack Build Generator
+
+```npx create-renderblocks-app projectName```
 
 ### NPM
 
@@ -37,7 +41,7 @@ index.html
 app.js
 
 ```
-import {RenderBlock} from "http://www.alexmercedcoder.com/renderBlocksmodule.js"
+import {RenderBlock} from "https://res.cloudinary.com/dithdroai/raw/upload/v1609694789/libraries/renderBlocksmodule_easmjn.js"
 
 ```
 
